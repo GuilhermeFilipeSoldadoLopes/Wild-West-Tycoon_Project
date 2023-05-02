@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - stone_counter
+  - gold_counter
+  - silver_counter
+  - highscoreTable
+  - clone
+  - capacityValues
+  - gameController
+  - warehouse
+  - sheriff
+  - saloon
+  - stable
+  - home
+  - loading
+  - citizens_counter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tumbleweed
+    uniqueID: 4025127441
+    locked: 0
+  - name: Body
+    uniqueID: 3409355673
+    locked: 0
+  - name: Target
+    uniqueID: 2308875505
+    locked: 0
